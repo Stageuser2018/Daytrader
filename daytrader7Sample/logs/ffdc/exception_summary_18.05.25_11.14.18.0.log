@@ -1,0 +1,34 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0      2  25/05/18 11:14:18:703 CEST  25/05/18 11:14:19:467 CEST java.lang.IllegalArgumentException com.ibm.ws.anno.info.internal.InfoStoreImpl 247
+                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.14.18.0.log
+     1      2  25/05/18 11:14:18:766 CEST  25/05/18 11:14:19:467 CEST com.ibm.wsspi.anno.info.InfoStoreException com.ibm.ws.anno.info.internal.ClassInfoCache 1080
+                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.14.18.1.log
+     2     42  25/05/18 11:14:19:102 CEST  25/05/18 11:14:19:498 CEST java.lang.IllegalArgumentException com.ibm.ws.anno.targets.internal.AnnotationTargetsImpl_Targets 529
+                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.14.19.0.log
+     3  28028  25/05/18 11:14:20:171 CEST  25/05/18 11:17:51:320 CEST java.lang.ClassNotFoundException com.ibm.ws.jdbc.internal.JDBCDriverService 234
+                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.14.20.0.log
+     4  28028  25/05/18 11:14:20:187 CEST  25/05/18 11:17:51:320 CEST java.sql.SQLNonTransientException com.ibm.ws.jdbc.DataSourceService 587
+                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.14.20.1.log
+     5      2  25/05/18 11:14:20:249 CEST  25/05/18 11:14:20:768 CEST java.sql.SQLNonTransientException com.ibm.ws.resource.internal.ResourceFactoryTrackerData$1 121
+                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.14.20.2.log
+     6      2  25/05/18 11:14:20:611 CEST  25/05/18 11:14:20:768 CEST java.lang.NullPointerException com.ibm.ws.jpa.management.JPAPUnitInfo.createEMFactory 773
+                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.14.20.3.log
+     7      1  25/05/18 11:14:40:172 CEST  25/05/18 11:14:40:172 CEST java.lang.RuntimeException com.ibm.wsspi.injectionengine.InjectionBinding.getInjectionObject 408
+                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.14.40.0.log
+     8      1  25/05/18 11:14:40:297 CEST  25/05/18 11:14:40:297 CEST com.ibm.wsspi.injectionengine.InjectionException com.ibm.ejs.container.ManagedBeanOBase.injectInstance 134
+                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.14.40.1.log
+     9      1  25/05/18 11:14:40:485 CEST  25/05/18 11:14:40:485 CEST javax.ejb.EJBException com.ibm.ejs.container.EJSHome.createBeanO 1047
+                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.14.40.2.log
+    10      2  25/05/18 11:14:40:787 CEST  25/05/18 11:14:40:928 CEST javax.ejb.NoSuchEJBException com.ibm.ejs.container.LocalExceptionMappingStrategy.setUncheckedException 178
+                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.14.40.3.log
+                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.14.40.5.log
+    11      2  25/05/18 11:14:40:818 CEST  25/05/18 11:14:40:975 CEST javax.ejb.NoSuchEJBException com.ibm.ejs.container.TimedObjectWrapper.invokeCallback 83
+                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.14.40.4.log
+                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.14.40.6.log
+    12      2  25/05/18 11:17:50:004 CEST  25/05/18 11:17:51:336 CEST java.lang.IllegalStateException com.ibm.ws.webcontainer.filter.WebAppFilterManager.invokeFilters 1105
+                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.17.50.0.log
+    13      2  25/05/18 11:17:50:176 CEST  25/05/18 11:17:51:336 CEST java.lang.NullPointerException com.ibm.ws.webcontainer.srt31.SRTConnectionContext.finishConnection 64
+                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.17.50.1.log
+------+------+---------------------------+---------------------------+---------------------------

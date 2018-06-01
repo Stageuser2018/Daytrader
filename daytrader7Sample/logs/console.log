@@ -1,0 +1,229 @@
+Launching daytrader7Sample (WebSphere Application Server 18.0.0.1/wlp-1.0.20.cl180120180309-2209) on Java HotSpot(TM) 64-Bit Server VM, version 10.0.1+10 (nl_BE)
+[AUDIT   ] CWWKE0001I: The server daytrader7Sample has been launched.
+[AUDIT   ] CWWKE0100I: This product is licensed for development, and limited production use. The full license terms can be viewed here: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/license/base_ilan/ilan/18.0.0.1/lafiles/en.html
+[AUDIT   ] CWWKZ0058I: Monitoring dropins for applications.
+[AUDIT   ] CWWKI0001I: The CORBA name server is now available at corbaloc:iiop:localhost:2809/NameService.
+[WARNING ] CWWKC0022W: [ com.ibm.ws.anno.info.internal.ClassInfoCache@1447809035 ] The scan of class [java.lang.Object] caused an exception. The message is: [Class [ java.lang.Object ] from resource [ java/lang/Object.class ] Exception creating reader] caused by [null].
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0022W: [ com.ibm.ws.anno.info.internal.ClassInfoCache@1702121256 ] The scan of class [java.lang.Object] caused an exception. The message is: [Class [ java.lang.Object ] from resource [ java/lang/Object.class ] Exception creating reader] caused by [null].
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+[WARNING ] CWWKC0044W: An exception occurred while scanning class and annotation data. The exception was java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:160)
+	at [internal classes]
+.
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.ibm.ws.logging.internal.impl.IntrospectionLevelMember$2 (file:/C:/daytrader7/daytrader-ee7/target/liberty/wlp/lib/com.ibm.ws.logging_1.0.20.jar) to field java.net.URL.BUILTIN_HANDLERS_PREFIX
+WARNING: Please consider reporting this to the maintainers of com.ibm.ws.logging.internal.impl.IntrospectionLevelMember$2
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+[ERROR   ] CWWJP0015E: An error occurred in the org.eclipse.persistence.jpa.PersistenceProvider persistence provider when it attempted to create the container entity manager factory for the daytrader persistence unit. The following error occurred: java.lang.NullPointerException
+	at org.eclipse.persistence.internal.jpa.EntityManagerSetupImpl.predeploy(EntityManagerSetupImpl.java:2062)
+	at [internal classes]
+
+[ERROR   ] CWWJP0015E: An error occurred in the org.eclipse.persistence.jpa.PersistenceProvider persistence provider when it attempted to create the container entity manager factory for the daytrader persistence unit. The following error occurred: java.lang.NullPointerException
+	at org.eclipse.persistence.internal.jpa.EntityManagerSetupImpl.predeploy(EntityManagerSetupImpl.java:2062)
+	at [internal classes]
+
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://aca8a301.ipt.aol.com:9082/daytrader/
+[AUDIT   ] CWWKZ0001I: Application daytrader7 started in 6,018 seconds.
+[AUDIT   ] CWWKF0012I: The server installed the following features: [jsp-2.3, ejbLite-3.2, jsf-2.2, servlet-3.1, beanValidation-1.1, jndi-1.0, ejbHome-3.2, jca-1.7, ejbPersistentTimer-3.2, localConnector-1.0, jsonp-1.0, jdbc-4.1, wasJmsServer-1.0, el-3.0, concurrent-1.0, ejbRemote-3.2, mdb-3.2, ejb-3.2, jpaContainer-2.1, cdi-1.2, websocket-1.1, jpa-2.1, wasJmsClient-2.0].
+[AUDIT   ] CWWKF0011I: The server daytrader7Sample is ready to run a smarter planet.
+Settings from daytrader.properties: {runtimeMode=0, maxUsers=15000, orderProcessingMode=0, cacheSize=100000, displayOrderAlerts=true, maxQuotes=10000, percentSentToWebsocket=10, longRun=true, actionTrace=false, publishQuotePriceChange=true, marketSummaryInterval=20, trace=false, primIterations=1, cachingType=1, webInterface=0, useRemoteEJBInterface=false}
+[ERROR   ] CNTR0019E: EJB threw an unexpected (non-declared) exception during invocation of method "updateMarketSummary". Exception data: javax.ejb.NoSuchEJBException: An error occurred during initialization of singleton session bean daytrader7#daytrader-ee7-ejb.jar#MarketSummarySingleton, resulting in the discarding of the singleton instance.; nested exception is: javax.ejb.EJBException: CWNEN0030E: The server was unable to obtain an object instance for the java:comp/env/com.ibm.websphere.samples.daytrader.ejb3.MarketSummarySingleton/entityManager reference.  The exception message was: java.lang.NullPointerException; nested exception is: java.lang.RuntimeException: java.lang.NullPointerException
+	at com.ibm.ejs.container.util.ExceptionUtil.NoSuchEJBException(ExceptionUtil.java:497)
+	at [internal classes]
+Caused by: javax.ejb.EJBException: CWNEN0030E: The server was unable to obtain an object instance for the java:comp/env/com.ibm.websphere.samples.daytrader.ejb3.MarketSummarySingleton/entityManager reference.  The exception message was: java.lang.NullPointerException; nested exception is: java.lang.RuntimeException: java.lang.NullPointerException
+	at com.ibm.ejs.container.util.ExceptionUtil.EJBException(ExceptionUtil.java:460)
+	... 1 more
+Caused by: java.lang.RuntimeException: java.lang.NullPointerException
+	at com.ibm.ws.jpa.management.JPAPUnitInfo.getEntityManagerFactory(JPAPUnitInfo.java:804)
+	... 1 more
+Caused by: java.lang.NullPointerException
+	at org.eclipse.persistence.internal.jpa.EntityManagerSetupImpl.predeploy(EntityManagerSetupImpl.java:2062)
+	... 1 more
+
+[ERROR   ] CNTR0019E: EJB threw an unexpected (non-declared) exception during invocation of method "updateMarketSummary". Exception data: javax.ejb.NoSuchEJBException: An error occurred during a previous attempt to initialize the singleton session bean daytrader7#daytrader-ee7-ejb.jar#MarketSummarySingleton.
+	at com.ibm.ejs.container.util.ExceptionUtil.NoSuchEJBException(ExceptionUtil.java:491)
+	at [internal classes]
+
+
+
+########## Trade configuration update. Current config:
+
+		RunTimeMode:			Direct (JDBC)
+		Use Remote EJB Interface:	false
+		OrderProcessingMode:		Sync
+		Web Interface:			JSP
+		Trade Users:			15000
+		Trade Quotes:			10000
+		Market Summary Interval:	20
+		Primitive Iterations:		1
+		TradeStreamer MDB Enabled:	true
+		% of trades on Websocket:	10
+		Long Run Enabled:		true
+		Display Order Alerts:		true
+		Trace Enabled:			false
+		Action Trace Enabled:		false
+
