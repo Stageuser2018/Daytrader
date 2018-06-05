@@ -27,5 +27,6 @@ node {
         }
     }
 
-stage('Deploy') {
-kubernetesDeploy configs: '/home/core/daytrader.yaml, /home/core/day-svc.yaml', dockerCredentials: [[credentialsId: 'docker-hub-credentials', url: 'https://hub.docker.com/r/stageuser/daytrader/']], kubeConfig: [path: ''], kubeconfigId: 'KubeConfigInternship2018', secretName: '', ssh: [sshCredentialsId: '*', sshServer: ''], textCredentials: [certificateAuthorityData: '', clientCertificateData: '', clientKeyData: '', serverUrl: 'https://'] } }
+stage('Deploy') {kubernetesDeploy configs: '**/daytrader.yaml, **/day-svc.yaml', dockerCredentials: [[credentialsId: 'docker-hub-credentials', url: 'https://hub.docker.com/r/stageuser/daytrader/']], kubeConfig: [path: ''], kubeconfigId: 'KubeConfigInternship2018', secretName: '', ssh: [sshCredentialsId: '*', sshServer: ''], textCredentials: [certificateAuthorityData: '', clientCertificateData: '', clientKeyData: '', serverUrl: 'https://']
+}
+}
