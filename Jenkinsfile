@@ -26,5 +26,6 @@ node {
             app.push("latest")
         }
     }
-}
-kubernetesDeploy configs: '/', dockerCredentials: [[credentialsId: 'docker-hub-credentials', url: 'https://hub.docker.com/r/stageuser/daytrader/']], kubeConfig: [path: ''], kubeconfigId: 'KubeConfigInternship2018', secretName: '', ssh: [sshCredentialsId: '*', sshServer: ''], textCredentials: [certificateAuthorityData: '', clientCertificateData: '', clientKeyData: '', serverUrl: 'https://']
+
+stage('Deploy') {
+kubernetesDeploy configs: '/', dockerCredentials: [[credentialsId: 'docker-hub-credentials', url: 'https://hub.docker.com/r/stageuser/daytrader/']], kubeConfig: [path: ''], kubeconfigId: 'KubeConfigInternship2018', secretName: '', ssh: [sshCredentialsId: '*', sshServer: ''], textCredentials: [certificateAuthorityData: '', clientCertificateData: '', clientKeyData: '', serverUrl: 'https://'] } }
