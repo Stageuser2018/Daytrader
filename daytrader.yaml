@@ -1,0 +1,23 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+ name: daytrader
+spec:
+ replicas: 1
+ template:
+   metadata:
+     labels:
+       app: daytrader-app
+   spec:
+     containers:
+     - name: daytrader
+       image: stageuser/daytrader:10
+       ports:
+       - containerPort: 9082
+       resources:
+         requests:
+           memory: "500Mi"
+           cpu: "300m"
+         limits:
+           memory: "1000Mi"
+           cpu: "900m"
