@@ -11,7 +11,7 @@ spec:
    spec:
      containers:
      - name: daytrader
-       image: stageuser/daytrader:13
+       image: stageuser/daytrader:14
        ports:
        - containerPort: 9082
        resources:
