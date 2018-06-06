@@ -27,6 +27,6 @@ node {
         }
     }
 stage('deploy') {
-kubernetesDeploy configs: '**/daytrader.yaml, **/day-svc.yaml', kubeConfig: [path: ''], kubeconfigId: 'KubeConfigInternship2018', secretName: '', ssh: [sshCredentialsId: '*', sshServer: ''], textCredentials: [certificateAuthorityData: '', clientCertificateData: '', clientKeyData: '', serverUrl: 'https://']
+kubernetesDeploy configs: '**/daytrader.yaml, **/day-svc.yaml, **/hpa-day.yaml', kubeConfig: [path: ''], kubeconfigId: 'KubeConfigInternship2018', secretName: '', ssh: [sshCredentialsId: '*', sshServer: ''], textCredentials: [certificateAuthorityData: '', clientCertificateData: '', clientKeyData: '', serverUrl: 'https://']
 }
 }
