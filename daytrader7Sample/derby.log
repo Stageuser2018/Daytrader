@@ -1,13 +1,19 @@
 ----------------------------------------------------------------
-Fri May 25 11:18:17 CEST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0163-9697-6e90-0000052f4ba8 
-on database directory C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\shared\resources\data\tradedb with class loader com.ibm.ws.classloading.internal.AppClassLoader@49d16b9b 
-Loaded from file:/C:/daytrader7/daytrader-ee7/target/liberty/wlp/usr/shared/resources/Daytrader7SampleDerbyLibs/derby-10.10.1.1.jar
+Wed Jun 06 19:44:25 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0163-d633-21f1-0000233aa610 
+on database directory C:\Users\joach\Desktop\New folder\sample.daytrader7-master\daytrader-ee7-wlpcfg\shared\resources\data\tradedb with class loader com.ibm.ws.classloading.internal.AppClassLoader@1d3a6572 
+Loaded from file:/C:/Users/joach/Desktop/New%20folder/sample.daytrader7-master/daytrader-ee7-wlpcfg/shared/resources/Daytrader7SampleDerbyLibs/derby-10.10.1.1.jar
 java.vendor=Oracle Corporation
-java.runtime.version=10.0.1+10
-user.dir=C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample
+java.runtime.version=1.8.0_151-b12
+user.dir=C:\Users\joach\Desktop\New folder\sample.daytrader7-master\daytrader-ee7-wlpcfg\servers\daytrader7Sample
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jun 06 19:44:28 CEST 2018:
+Shutting down instance a816c00e-0163-d633-21f1-0000233aa610 on database directory C:\Users\joach\Desktop\New folder\sample.daytrader7-master\daytrader-ee7-wlpcfg\shared\resources\data\tradedb with class loader com.ibm.ws.classloading.internal.AppClassLoader@1d3a6572 
+----------------------------------------------------------------
+Wed Jun 06 19:44:28 CEST 2018: Shutting down Derby engine
+----------------------------------------------------------------

@@ -1,6 +1,0 @@
-
- Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
-------+------+---------------------------+---------------------------+---------------------------
-     0      1  25/05/18 11:18:09:054 CEST  25/05/18 11:18:09:054 CEST java.lang.IllegalArgumentException com.ibm.ws.anno.info.internal.InfoStoreImpl 247
-                                                                            - C:\daytrader7\daytrader-ee7\target\liberty\wlp\usr\servers\daytrader7Sample\logs\ffdc\ffdc_18.05.25_11.18.09.0.log
-------+------+---------------------------+---------------------------+---------------------------
