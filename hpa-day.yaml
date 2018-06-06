@@ -1,14 +1,17 @@
-apiVersion: extensions/v1beta1
+apiVersion: autoscaling/v2beta1
 kind: HorizontalPodAutoscaler
 metadata:
- name: daytrader
+ name: hpa-daytrader
  namespace: default
 spec:
- scaleRef:
+ scaleTargetRef:
+   apiVersion: apps/v1beta1
    kind: Deployment
    name: daytrader
-   subresource: scale
  minReplicas: 1
- maxReplicas: 10
- cpuUtilization:
-   targetPercentage: 50
+ maxReplicas: 3
+ metrics:
+ - type: Resource
+   resource:
+     name: cpu
+     targetAverageUtilization: 50
