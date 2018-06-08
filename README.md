@@ -1,2 +1,2 @@
 # Daytrader
-V1.6
+V1.7
